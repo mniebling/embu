@@ -1,5 +1,5 @@
 <template lang="pug">
-div.app-container Hello World from Vue
+div.app-container Hello World from Vue!
 </template>
 
 <script lang="ts">

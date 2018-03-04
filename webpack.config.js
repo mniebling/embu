@@ -31,6 +31,7 @@ const commonConfig =
   , resolve:
     { extensions: ['.js', '.ts', '.vue']
     }
+  , watch: true
   }
 
 module.exports =

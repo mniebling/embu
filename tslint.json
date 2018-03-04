@@ -16,6 +16,7 @@
 		"no-trailing-whitespace": true,
 		"no-unused-expression": true,
 		"no-unsafe-finally": true,
+		"object-literal-sort-keys": false,
 		"quotemark": [true, "single"],
     "semicolon": [false, "never"],
 		"space-before-function-paren": true,
